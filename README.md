@@ -8,3 +8,4 @@
   + https://www.advancedwebranking.com/seo/html-study/
   + https://emmet.io/
   + https://www.photopea.com/
+  + https://fontawesome.com/
