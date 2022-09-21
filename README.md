@@ -9,3 +9,4 @@
   + https://emmet.io/
   + https://www.photopea.com/
   + https://fontawesome.com/
+  + https://fonts.google.com/
