@@ -132,6 +132,7 @@ img {
 
 /* 모바일 가로, 테블릿 세로 (해상도 ~ 600px)*/ 
 @media screen and (max-width:900px) {
+
   header {
     display: block;
     height: auto;
@@ -143,6 +144,8 @@ img {
   }
   main {
     height: auto;
+    width : 100% ;
+    text-align: center;
   }
 
   main > section { 
@@ -153,12 +156,35 @@ img {
     padding: 20px;
     border-bottom: #f0f0f0 solid 2px;
   } 
-
+  .header_left, .header_right {
+    width: 100%;
+  }
+  nav {
+    height: auto;
+    display: flex;
+    flex-wrap: wrap; 
+  }
+  nav > div, nav > ul {
+    width: 100%;
+    padding: 20px;
+  }
+  .nav_menu  {
+    display: block;   
+  }
+  .nav_menu >li { 
+    margin: 10px;
+  }
+  .nav_icon {
+    display: none;
+  }
   footer {
     height: 60px;
+    
+  }
+  footer > h2 {
+    font-size: 1em;
   }
   footer > ul {
     display: none;
-    
   }
 } 
