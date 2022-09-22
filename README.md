@@ -14,3 +14,5 @@
   + https://www.photopea.com/
   + https://fontawesome.com/
   + https://fonts.google.com/
+  + https://cssgradient.io/
+  + https://www.shapedivider.app/
